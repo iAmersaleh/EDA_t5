@@ -29,12 +29,11 @@ The data set is provided in .csv format,  contains information of price, transmi
 The data set was extracted from Kaggle https://www.kaggle.com/adityadesai13/used-car-dataset-ford-and-mercedes
 
 
-Engine Size In this column, it shows us the engine capacity of the car
+
 
 
 |field name|Description                                                                         | 
  |-------|--------------------------------------------------------------------------------------|
- |                                                                                              |
  | Model | In this column, the model of the car shows us the name of the car.(e.g., ford Kuga.)| 
  | Year | In this column, shows the year of manufacture of the car (e.g., 2012)                |
  | Price | This column shows the cost of car (e.g., 60000)                                     |
@@ -43,6 +42,7 @@ Engine Size In this column, it shows us the engine capacity of the car
  | Fuel type |in this column, it shows us the type of fuel, whether it is petrol or diesel     |
  | Mpg | In this column, it shows us the distance covered by the car per gallon                |
  | Engine | Size In this column, it shows us the engine capacity of the car                    |
+ | Tax | In this column, the tax amount charged on the car                                     |
 
 
  
