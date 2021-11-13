@@ -37,9 +37,9 @@ The data set was extracted from Kaggle https://www.kaggle.com/adityadesai13/used
  | Model | In this column, the model of the car shows us the name of the car.(e.g., ford Kuga.)| 
  | Year | In this column, shows the year of manufacture of the car (e.g., 2012)                |
  | Price | This column shows the cost of car (e.g., 60000)                                     |
- | Transmission | It shows us the type of car transmission, whether it is manual or automatic  |
+ | Transmission | It shows us the type of car transmission (e.g., Manual) .                    |
  | Mileage |In this column, It shows us the distance the car has traveled in miles             |
- | Fuel type |in this column, it shows us the type of fuel, whether it is petrol or diesel     |
+ | Fuel type |in this column, it shows us the type of fuel (e.g., Petrol)                      |
  | Mpg | In this column, it shows us the distance covered by the car per gallon                |
  | Engine | Size In this column, it shows us the engine capacity of the car                    |
  | Tax | In this column, the tax amount charged on the car                                     |
