@@ -21,7 +21,7 @@ After we explore data, we will do data cleaning, pre-processing and delete the d
 * What are the most popular used cars ?
 * What is the most reliable feature that customers rely on when buying a used car ?
 * What is the average customer budget when buying a used car ?
-* Can we add a powerful feature after or during the purchase of the used car that will enable us to gain more customers ?
+* what is the correlation between price and year, price and mileage ?
 
 ## Data Description:
 The data set is provided in .csv format,  contains information of price, transmission, model, mileage, fuel type, road tax, miles per gallon (mpg), and engine size. 
