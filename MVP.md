@@ -7,6 +7,4 @@ What is the correlation between price and year, price and mileage ?
 We found that the relationship between them is the newer the year of manufacture the car is, the more expensive it is, and the lower its mileage, the higher its price 
 ### Figure 1
 
-![](https://github.com/iAmersaleh/EDA_t5/issues/1#issue-1056012267)
-<img src="">
 ![MVP](https://user-images.githubusercontent.com/93071403/142191464-213d5770-718c-4a50-99f8-86d278d5f539.png)
