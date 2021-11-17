@@ -8,4 +8,4 @@ We found that the relationship between them is the newer the year of manufacture
 ### Figure 1
 
 ![](https://github.com/iAmersaleh/EDA_t5/issues/1#issue-1056012267)
-
+<img src="https://github.com/iAmersaleh/EDA_t5/issues/1#issue-1056012267">
