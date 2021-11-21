@@ -21,7 +21,7 @@ After we explore data, we will do data cleaning, pre-processing and delete the d
 * What are the most popular used cars ?
 * What is the most reliable feature that customers rely on when buying a used car ?
 * What is the average customer budget when buying a used car ?
-* what is the correlation between price and year, price and mileage ?
+* what is the relationship between price and year, price and mileage ?
 
 ## Data Description:
 The data set is provided in .csv format,  contains information of price, transmission, model, mileage, fuel type, road tax, miles per gallon (mpg), and engine size. 
@@ -42,7 +42,7 @@ The data set was extracted from Kaggle https://www.kaggle.com/adityadesai13/used
  | Fuel type |in this column, it shows us the type of fuel (e.g., Petrol)                      |
  | Mpg | In this column, it shows us the distance covered by the car per gallon                |
  | Engine | Size In this column, it shows us the engine capacity of the car                    |
- | Tax | In this column, the tax amount charged on the car                                     |
+ 
 
 
  
@@ -56,9 +56,10 @@ The data set was extracted from Kaggle https://www.kaggle.com/adityadesai13/used
 1. NumPy.
 2. Pandas.
 3. Matplotlib.
-
+4. Seaborn
+5. sciket learn
 ## MVP Goal:
-The MVP goal is to answer at least four of the questions we mentioned
+The MVP goal is to answer at least one of the questions we mentioned
 
 
 
